@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_height200dp">200dp</dimen>
+    <dimen name="rcwlayout_height0dp">0dp</dimen>
+    <dimen name="editor_absolutex16dp">16dp</dimen>
+    <dimen name="main_layoutwidht600dp">600dp</dimen>
+    <dimen name="padding10dp">10dp</dimen>
+    <dimen name="textsize30sp">30sp</dimen>
+    <dimen name="textsize25sp">25sp</dimen>
+    <dimen name="margin10dp">10dp</dimen>
+    <dimen name="textsize20sp">20sp</dimen>
+    <dimen name="marginbottom5dp">5dp</dimen>
+    <dimen name="widht100dp">100dp</dimen>
+    <dimen name="height100dp">100dp</dimen>
+    <dimen name="margin16dp">16dp</dimen>
+    <dimen name="textsize15sp">15sp</dimen>
+    <dimen name="margin189">189dp</dimen>
+    <dimen name="margin28dp">28dp</dimen>
+    <dimen name="margin45dp">45dp</dimen>
+    <dimen name="margin156dp">156dp</dimen>
+</resources>

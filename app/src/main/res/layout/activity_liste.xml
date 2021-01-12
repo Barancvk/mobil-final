@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#100000"
+    tools:context=".activities.ListeActivity">
+
+    <ImageView
+        android:id="@+id/imgKapak"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/layout_height200dp"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/mercedes_benz_amblem" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvMercedesler"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/rcwlayout_height0dp"
+        android:background="#000000"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgKapak"
+        app:layout_constraintVertical_bias="0.0"
+        tools:layout_editor_absoluteX="@dimen/editor_absolutex16dp"
+        tools:listitem="@layout/cardview_mercedes" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

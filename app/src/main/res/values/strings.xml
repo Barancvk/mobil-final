@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">H5190061_BaranCivakFinal</string>
+    <string name="bekle_komutu">Lütfen bekleyiniz...</string>
+    <string name="uygulama_uyari">Uyarı!</string>
+    <string name="uygulama_cikma">Uygulamadan Çıkmak İstiyor musunuz?</string>
+    <string name="uygulama_evet">Evet</string>
+    <string name="uygulama_hayir">Hayır</string>
+    <string name="tiklanan_adi">TIKLANAN ADI</string>
+    <string name="uygulama_internet">İnternet Bağlantınız Yok</string>
+    <string name="uygulama_internet_bagla">Uygulamayı Kullanmak İçin İnternete Bağlayın</string>
+    <string name="uygulama_ayarlar_git">Ayarlara Git</string>
+    <string name="uygulama_kapat">Kapat</string>
+    <string name="mainactivityekrani">MainActivity</string>
+    <string name="listeactivityekrani">ListeActivity</string>
+</resources>
