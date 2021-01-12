@@ -1,7 +1,7 @@
 # Mercedes Benz Otomobil Listeleme Uygulaması
 
 <p align="center">
-<img src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/mercedesbanner2.jpg/>
+<img src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/mercedesbanner2.jpg"/>
 </p>
 
 # Mercedes Benz
