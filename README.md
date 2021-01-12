@@ -1,11 +1,11 @@
 # Mercedes Benz Otomobil Listeleme Uygulaması
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/reportfiles/mercedesbanner2.jpg/>
+<img src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/mercedesbanner2.jpg/>
 </p>
 
 # Mercedes Benz
-![appicon](https://raw.githubusercontent.com/Barancvk/h5190061barancivak/main/reportfiles/Ye%C5%9Fil%20Kenarl%C4%B1%20Oyunlar%20Logo.png)
+![appicon](https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/Ye%C5%9Fil%20Kenarl%C4%B1%20Oyunlar%20Logo.png)
 
 Mercedes Benz Markasına ait araçları listelenmiş olduğu bir uygulama.
 
