@@ -11,7 +11,7 @@ Mercedes Benz Markasına ait araçları listelenmiş olduğu bir uygulama.
 
 Bu uygulamada kendi GitHub'ımdan çekmiş olduğum JSON verisini kullanarak, yapmış olduğum android uygulamada işledim.
 
-<h2 id="Outputs">Outputs</h2>
+<h2 id="Ekran Görüntüleri">Ekran Görüntüleri</h2>
 <p>
   <img height= "400"  src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/mainekrani.jpg" alt="SS1" />
   <img height= "400"  src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/listeekrani.jpg" alt="SS2" />
@@ -21,15 +21,17 @@ Bu uygulamada kendi GitHub'ımdan çekmiş olduğum JSON verisini kullanarak, ya
 
 </p>
 
-## Mimari Paket Yapısı
-![Architecture](https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/mimari%20paket%20yap%C4%B1s%C4%B1.png)
-
 ## Kullanmış Olduğum Araçlar 🛠
 <li><a href="https://github.com/square/okhttp">OkHttp</a></li>
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
 <li><a href="https://developer.android.com/jetpack/androidx/releases/recyclerview?hl=en">RecyclerView</a></li>
 <li><a href="https://github.com/square/retrofit">Retrofit</a></li>
+
+
+## Mimari Paket Yapısı
+![Architecture](https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/mimari%20paket%20yap%C4%B1s%C4%B1.png)
+
 
 
 
