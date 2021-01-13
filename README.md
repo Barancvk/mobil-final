@@ -1,11 +1,11 @@
 # Mercedes Benz Otomobil Listeleme Uygulaması
 
 <p align="center">
-<img src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/mercedesbanner2.jpg"/>
+<img src="https://github.com/Barancvk/mobil-final/blob/main/photos/mercedesbanner2.jpg"/>
 </p>
 
 # Mercedes Benz
-![appicon](https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/ic_launcher.png)
+![appicon](https://github.com/Barancvk/mobil-final/blob/main/photos/ic_launcher.png)
 
 Mercedes Benz Markasına ait araçları listelenmiş olduğu bir uygulama.
 
@@ -13,11 +13,11 @@ Bu uygulamada kendi GitHub'ımdan çekmiş olduğum JSON verisini kullanarak, ya
 
 <h2 id="Ekran Görüntüleri">Ekran Görüntüleri</h2>
 <p>
-  <img height= "400"  src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/mainekrani.jpg" alt="SS1" />
-  <img height= "400"  src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/listeekrani.jpg" alt="SS2" />
-  <img height= "400"  src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/mercedesdetayekrani.jpg" alt="SS3" />
-  <img height= "400"  src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/alertdialog1ekrani.jpg" alt="SS4" />
-  <img height= "400"  src="https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/alertdialog2ekrani.jpg" alt="SS5" />
+  <img height= "400"  src="https://github.com/Barancvk/mobil-final/blob/main/photos/mainekrani.jpg" alt="SS1" />
+  <img height= "400"  src="https://github.com/Barancvk/mobil-final/blob/main/photos/listeekrani.jpg" alt="SS2" />
+  <img height= "400"  src="https://github.com/Barancvk/mobil-final/blob/main/photos/mercedesdetayekrani.jpg" alt="SS3" />
+  <img height= "400"  src="https://github.com/Barancvk/mobil-final/blob/main/photos/alertdialog1ekrani.jpg" alt="SS4" />
+  <img height= "400"  src="https://github.com/Barancvk/mobil-final/blob/main/photos/alertdialog2ekrani.jpg" alt="SS5" />
 
 </p>
 
@@ -30,7 +30,7 @@ Bu uygulamada kendi GitHub'ımdan çekmiş olduğum JSON verisini kullanarak, ya
 
 
 ## Mimari Paket Yapısı
-![Architecture](https://github.com/Barancvk/h5190061barancivak/blob/main/reportfiles/mimari%20paket%20yap%C4%B1s%C4%B1.png)
+![Architecture](https://github.com/Barancvk/mobil-final/blob/main/photos/mimari%20paket%20yap%C4%B1s%C4%B1.png)
 
 
 
